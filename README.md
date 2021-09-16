@@ -1,11 +1,11 @@
 # Getting Started with DataView
-DataView is a data visualisation tool to showcase data visualisation capability from any data source.
+MedView is a data visualisation tool to showcase data from [MedApi](https://code-20210908-ravisingh.herokuapp.com/api/reports/).
 
-### [Demo Link](https://factedu.github.io/data-view) 
+### [Demo Link](https://github.com/factedu/code-20210908-ravisingh-ui) 
 
 ## Technolgy Stack
 1. React JS
-2. D3 JS
+2. MaterialUI
 
 ## Developer Contact
 **Ravi S Singh**
