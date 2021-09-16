@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/code-20210908-ravisingh-ui/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/code-20210908-ravisingh-ui/static/js/main.6d000f40.chunk.js",
+    "main.js.map": "/code-20210908-ravisingh-ui/static/js/main.6d000f40.chunk.js.map",
+    "runtime-main.js": "/code-20210908-ravisingh-ui/static/js/runtime-main.99e29bfa.js",
+    "runtime-main.js.map": "/code-20210908-ravisingh-ui/static/js/runtime-main.99e29bfa.js.map",
+    "static/js/2.25c839a1.chunk.js": "/code-20210908-ravisingh-ui/static/js/2.25c839a1.chunk.js",
+    "static/js/2.25c839a1.chunk.js.map": "/code-20210908-ravisingh-ui/static/js/2.25c839a1.chunk.js.map",
+    "static/js/3.f8663c41.chunk.js": "/code-20210908-ravisingh-ui/static/js/3.f8663c41.chunk.js",
+    "static/js/3.f8663c41.chunk.js.map": "/code-20210908-ravisingh-ui/static/js/3.f8663c41.chunk.js.map",
+    "index.html": "/code-20210908-ravisingh-ui/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/code-20210908-ravisingh-ui/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.25c839a1.chunk.js.LICENSE.txt": "/code-20210908-ravisingh-ui/static/js/2.25c839a1.chunk.js.LICENSE.txt",
+    "static/media/dataviewlogo_white.70304617.png": "/code-20210908-ravisingh-ui/static/media/dataviewlogo_white.70304617.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99e29bfa.js",
+    "static/js/2.25c839a1.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6d000f40.chunk.js"
+  ]
+}
