@@ -1,7 +1,7 @@
 # Getting Started with MedView
 MedView is a data visualisation tool to showcase data from [MedApi](https://code-20210908-ravisingh.herokuapp.com/api/reports/).
 
-### [Demo Link](https://github.com/factedu/code-20210908-ravisingh-ui) 
+### [Demo Link](https://factedu.github.io/code-20210908-ravisingh-ui/#/) 
 
 ## Technolgy Stack
 1. React JS
